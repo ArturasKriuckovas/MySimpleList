@@ -10,14 +10,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/note_list" />
-    <ImageButton
-        android:layout_margin="15dp"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:background="@drawable/circle"
-        android:layout_gravity="right|bottom"
-        tools:layout_editor_absoluteY="425dp"
-        tools:layout_editor_absoluteX="298dp"
-        android:id="@+id/action_add_note"/>
+
 
 </android.support.constraint.ConstraintLayout>
