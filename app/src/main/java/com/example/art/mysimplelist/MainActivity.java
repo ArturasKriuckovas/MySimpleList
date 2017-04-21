@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
 
 }
 //============================================================
-//padariau pagal tutoriala, todel gali but matytas kodas....
+//padariau pagal tutoriala, todel gali but matytas kodas.....
 //============================================================
 
 
